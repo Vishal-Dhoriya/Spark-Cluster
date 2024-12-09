@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project automates the setup of a Spark cluster with one master node and multiple worker nodes on a shared network using Bash scripts. The setup ensures all nodes are properly configured for distributed computing using Apache Spark.
+This project automates the setup of a Spark cluster with one master node and multiple worker nodes on a shared network using Bash scripts. The setup ensures all nodes are properly configured for distributed computing using Apache Spark. By streamlining the installation of dependencies, network configuration, and service initialization, the script reduces manual effort, minimizes the risk of human error, and ensures consistent cluster deployment. Additionally, it provides flexibility for customization, allowing you to tailor the cluster to your specific needs.
 
 ## Files in the Project
 
